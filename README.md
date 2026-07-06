@@ -1,7 +1,7 @@
 
   #  NGO Awareness Website
 
-  This is a code bundle for Create NGO Awareness Website. The original project is available at https://www.figma.com/design/Tv9sbUOpjxsPUGcebt5ko6/Create-NGO-Awareness-Website.
+  This is a code bundle for Create NGO Awareness Website. The original project is available at https://swab-armor-01780723.figma.site/
 
   ## Running the code
 
