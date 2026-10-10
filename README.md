@@ -1,11 +1,31 @@
+# InAmigos — NGO Awareness Website 🤝
 
-  #  NGO Awareness Website
+A web platform raising awareness for the **InAmigos Foundation** — an NGO focused on community support and social impact initiatives.
 
-  This is a code bundle for NGO Awareness Website. The original project is available at https://swab-armor-01780723.figma.site/
+The site communicates the foundation's mission, ongoing programs, and ways for visitors to get involved or donate.
 
-  ## Running the code
+## Stack
 
-  Run `npm i` to install the dependencies.
+| | |
+|---|---|
+| Framework | React (via Figma Make) |
+| Styling | Tailwind CSS + shadcn/ui |
+| Build | Vite |
+| Package manager | pnpm |
 
-  Run `npm run dev` to start the development server.
-  
+## Run locally
+
+```bash
+pnpm install
+pnpm dev
+```
+
+## Build
+
+```bash
+pnpm build
+```
+
+---
+
+*Portfolio project — web design & front-end development*
